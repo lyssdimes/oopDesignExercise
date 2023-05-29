@@ -14,5 +14,6 @@ public class App {
         // the above is temporary, will not be Shape, but name of subclass
         // ex) Circle testCircle = new Circle();
         // testCircle. + add methods to test
+        // iteration 1
     }
 }
