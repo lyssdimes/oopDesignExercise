@@ -23,9 +23,10 @@ public Shape() {
     this.filled = true;
 }
 
-public abstract void getArea();
+public abstract double area();
 
-public abstract void getPerimeter();
+public abstract double perimeter();
+
 
 public String valuesToString(){
     String filledToString = Boolean.toString(filled);
